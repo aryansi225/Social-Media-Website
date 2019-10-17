@@ -46,3 +46,12 @@ HTML,
 CSS,
 Bootstrap,
 JavaScript.
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Implemented a basic social media website using Django by taking reference from various online articles and educational video.
+
+Major Learnings => 
+Learnt how to use Django to build a website, communicate to db and manage multiple frontend pages.
+
